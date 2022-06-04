@@ -24,6 +24,10 @@
 ### For installation:
         https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
 
+## Useful Links for plotting maps
+    https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=343722b5700490c3699cc95e16fb72d39e11c077&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f636c61756469616e33372f44535f506f7274666f6c696f2f333433373232623537303034393063333639396363393565313666623732643339653131633037372f4e59435f6361625f646174617365742f30315f4544415f4e59435f4361625f67656f7370617469616c5f76697375616c697a6174696f6e2e6970796e62&logged_in=false&nwo=claudian37%2FDS_Portfolio&path=NYC_cab_dataset%2F01_EDA_NYC_Cab_geospatial_visualization.ipynb&platform=android&repository_id=263525846&repository_type=Repository&version=99
+
+
 
 
 
