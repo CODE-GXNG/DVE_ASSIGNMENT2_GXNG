@@ -15,4 +15,16 @@
     pipwin install rtree
     pipwin install geopandas
 
+## Git lfs
+
+    You need this to pull and push the csv files
+### For information:
+        https://docs.github.com/en/repositories/working-with-files/managing-large-files
+
+### For installation:
+        https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
+
+
+
+
 
