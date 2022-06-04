@@ -30,7 +30,14 @@
 ### Hotspot
     https://sarkiskassounian.medium.com/using-folium-dbscan-and-foursquare-for-spatial-analysis-3b862e5e7207
 
+## Airports
+JFK:
+40.661540 , -73.792560
+40.664310 , -73.819150
+40.666450 , -73.780040
 
+Far left: -73.823499
+Far Right: -73.748366
 
-
-
+Top: 40.664494
+Bottom: 40.621067
