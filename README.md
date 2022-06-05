@@ -30,3 +30,6 @@
 ### Hotspot
     https://sarkiskassounian.medium.com/using-folium-dbscan-and-foursquare-for-spatial-analysis-3b862e5e7207
 
+## Boroughs
+How to use shapefiles:
+https://towardsdatascience.com/how-to-easily-join-data-by-location-in-python-spatial-join-197490ff3544
